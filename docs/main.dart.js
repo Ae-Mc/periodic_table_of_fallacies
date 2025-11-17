@@ -57185,7 +57185,7 @@ k(a){return"Fallacy(name: "+this.a+", abbreviation: "+this.b+")"},
 $iaa_:1}
 A.B_.prototype={
 O(a){var s=null
-return new A.rD(new A.r4(s),"Periodic table of fallacies",A.a7p(s,A.a9q(B.H,s,s,B.Cw),s),s)}}
+return new A.rD(new A.r4(s),"\u0422\u0430\u0431\u043b\u0438\u0446\u0430 \u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0443\u043b\u043e\u0432\u043e\u043a",A.a7p(s,A.a9q(B.H,s,s,B.Cw),s),s)}}
 A.mO.prototype={
 O(a){return A.XR(new A.mT(A.a5k("assets/"+this.c.a+"/"),new A.Oc(),null,t.gs),null,A.aF([A.a6M(B.bR),B.dp,A.a6M(B.ah),B.dp,A.a6M(B.ag),B.dp],t.C,t.o))}}
 A.Oc.prototype={
@@ -57243,7 +57243,7 @@ $S:0}
 A.r4.prototype={
 ap(){return new A.FR()}}
 A.FR.prototype={
-O(a){var s=null,r=A.abW("Periodic Table of Fallacies")
+O(a){var s=null,r=A.abW("\u0422\u0430\u0431\u043b\u0438\u0446\u0430 \u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0443\u043b\u043e\u0432\u043e\u043a")
 return new A.tK(new A.pk(r,new A.Hq(s,s,1/0,56),s),new A.dA(B.Dj,A.a6J(new A.a1d(this)),s),s)}}
 A.a1d.prototype={
 $2(a,b){var s,r,q,p,o,n,m=null,l=b.b,k=Math.min(l/7,b.d/4)

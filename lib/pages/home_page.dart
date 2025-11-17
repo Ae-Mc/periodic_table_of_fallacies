@@ -50,7 +50,7 @@ class _HomePageState extends State<HomePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text('Periodic Table of Fallacies')),
+      appBar: AppBar(title: Text('Таблица логических уловок')),
       body: Padding(
         padding: const Pad(all: 16),
         child: LayoutBuilder(
