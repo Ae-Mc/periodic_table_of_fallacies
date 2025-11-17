@@ -1,11 +1,11 @@
 {
-    "name": "Таблица логических ошибок",
-    "short_name": "Таблица логических ошибок",
+    "name": "Таблица логических уловок",
+    "short_name": "Таблица логических уловок",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Таблица логических ошибок",
+    "description": "Таблица логических уловок",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
